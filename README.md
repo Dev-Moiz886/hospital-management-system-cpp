@@ -4,7 +4,6 @@
 
 Hospital Management System is a console-based application developed in C++. It helps manage patients, doctors, employees, and appointments through a menu-driven interface. The project also supports automatic file saving and loading to preserve records between program executions.
 
----
 
 ## Features
 
@@ -36,8 +35,6 @@ Hospital Management System is a console-based application developed in C++. It h
 - Input Validation
 - Menu Driven Interface
 
----
-
 ## Technologies Used
 
 - C++
@@ -52,8 +49,6 @@ Libraries Used
 - fstream
 - sstream
 
----
-
 ## OOP Concepts Used
 
 - Classes and Objects
@@ -65,7 +60,6 @@ Libraries Used
 - Destructors
 - Virtual Functions
 
----
 
 ## File Handling
 
@@ -78,7 +72,6 @@ The application automatically stores records in the following files:
 
 These files are created automatically when the program runs.
 
----
 
 ## How to Run
 
@@ -100,7 +93,6 @@ Run
 ./hospital
 ```
 
----
 
 ## Future Improvements
 
@@ -112,7 +104,6 @@ Run
 - Database Integration (MySQL)
 - Report Generation
 
----
 
 ## Screenshots
 
@@ -136,7 +127,6 @@ Run
 
 ![Patient Records](assets/patient-records.png)
 
----
 
 ## Author
 
