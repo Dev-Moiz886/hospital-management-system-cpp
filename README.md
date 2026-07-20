@@ -85,7 +85,7 @@ These files are created automatically when the program runs.
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/hospital-management-system-cpp.git
+git clone https://github.com/Dev-Moiz886/hospital-management-system-cpp.git
 ```
 
 Compile
